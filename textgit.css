@@ -1,34 +1,73 @@
+#khung {
+	width: 1000px;
+	height: auto;
+	/*background: purple;*/
+	margin: 0 auto;
+}
+
+
+
+
+
+/*HUY GIA*/
 #khung .cuahuy {
 	width: 1000px;
 	height: 600px;
-	background: purple;
+	background: none;
 	margin: 0 auto;
 }
 #khung .cuahuy h1 {
 	text-align: center;
 	margin: 0 auto;
 	padding-top: 1rem;
-	color: white;
+	color: black;
+	font-weight: bold;
 }
 .noidung {
 	width: 490px;
 	height: auto;
-	background: green;
+	background: none;
 	margin: 0 auto;
 }
 .noidung h5 {
 	text-align: center;
-	color: white;
+	color: black;
 }
 .boxhuy {
 	width: 800px;
 	height: 400px;
-	background: lightgreen;
+	background: none;
 	margin: 0 auto;
 }
 .boxhuy .box1 {
-
+	float: left;
+	width: 246px;
+	height: 190px;
+	background: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	border-radius: 7px;
+	border: 5px solid lightgreen;
 }
+.box1 .ima {
+	width: 50px;
+	height: 50px;
+	background: lightgreen;
+	margin: 0 auto;
+	margin-top: 1rem;
+	border-radius: 5px;
+}
+.boxhuy .box1 h3 {
+	text-align: center;
+	font-size: bold;
+}
+.boxhuy .box1 p {
+	text-align: center;
+	margin: 0;
+}
+
 
 /*.box11 .ima {
 	width: 100%;
@@ -39,3 +78,5 @@
 	height: 100%;
 	border-radius: 10px;
 } */
+
+/*HUY GIA*/
