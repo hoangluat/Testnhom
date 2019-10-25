@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #khung {
 	width: 1000px;
 	height: auto;
@@ -67,8 +68,6 @@
 	text-align: center;
 	margin: 0;
 }
-
-
 /*.box11 .ima {
 	width: 100%;
 	height: 50%;
@@ -80,3 +79,162 @@
 } */
 
 /*HUY GIA*/
+
+
+
+
+
+/*ngoc*/
+#khung .phan1{
+	width: 1000px;
+	height: 100px;
+	/*background: gray;*/
+	margin: 0 auto;
+}
+.phan1 .logo{
+	width: 50%;
+	height: 100%;
+	/*background: blue;*/
+	float: left;
+}
+.logo .picture{
+	width: 30%;
+	height: 100%;
+	/*background: black;*/
+	float: left;
+}
+.picture img{
+	width: 100%;
+	height: 100%;
+}
+.logo .text{
+	width: 70%;
+	height: 100%;
+	/*background: yellow;*/
+	float: left;
+}
+.text h1{
+	color: #14094d;
+	padding-top: 0.5rem;
+}
+.phan1 .menu{
+	width: 50%;
+	height: 100%;
+	/*background: green;*/
+	float: left;
+}
+.menu ul{
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}
+.menu ul li{
+	float: left;
+	width: 15%;
+	display: block;
+	height: 100%;
+	/*background: white;*/
+}
+.menu ul li a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	/*background: green;*/
+	text-decoration: none;
+	text-align: center;
+	box-sizing: border-box;
+	padding-top: 2rem;
+	color: black;
+	font-weight: bold;
+}
+.menu ul li:hover a{
+	background: #14094d;
+	transition-duration: 0.5s;
+	color: white;
+}
+
+
+
+
+
+
+/*trung*/
+#khung .trung{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+.trung .text{
+	width:1000px;
+	height: 150px;
+	background: none;
+}
+.text p{
+	color: black;
+	font-size: 50px;
+	margin: 0 auto;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.trung .form{
+	float: left;
+	width: 1000px;
+	height: 130px;
+	background: lightgreen;
+}
+.form .form1{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: none;
+	margin-top: 40px; 
+	margin-left: 7%;
+}
+.form .form1 .f1{
+	width: 100%;
+	height: 85%;
+	text-indent: 10px;
+
+}
+.form2{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: none;
+	margin-top: 40px;
+	margin-left: 2%;
+}
+.form .form2 .f2{
+	width: 100%;
+	height: 85%;
+	text-indent: 10px;
+}
+.form3{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: none;
+	margin-top: 40px;
+	margin-left: 2%;
+}
+.form .form3 .f3{
+	width: 100%;
+	height: 85%;
+	text-indent: 10px;
+}
+.form4{
+	float: left;
+	width: 200px;
+	height: 40px;
+	background: none;
+	margin-top: 40px;
+	margin-left: 2%;
+}
+.form .form4 .f4{
+	width: 100%;
+	height: 100%;
+	border-radius: 4px;
+	background: green;
+}
