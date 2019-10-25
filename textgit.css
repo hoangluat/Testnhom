@@ -302,3 +302,48 @@
 	height: 100%;
 	border-radius: 10px;
 } */
+
+/* hai*/
+.end{
+	background: #180358;
+	width: 1000px;
+	height: 300px;
+	
+}
+.boxhai{
+	width: 55%;
+	height: 100%;
+	/*background: yellow;*/
+	float: left;
+}
+.boxhai h3{
+	color:#b6b5f1;
+	margin-left: 10%;
+	
+
+}
+.boxhai p{
+	color: white;
+	margin-left: 10%;
+}
+.end .box2{
+	/*background: red;*/
+	width: 45%;
+	height:100%;
+	float: left;
+}
+.btn-learnmore{
+	background: yellow;
+	padding: 0.5rem 0;
+	width: 25%;
+	margin-left: 10%;
+    border-radius: 5px;
+}
+.box2 img{
+    margin-top: 8%;
+    margin-left: 25%;
+}
+.btn-learnmore:hover{
+	background: green;
+}
+/*hai*/
