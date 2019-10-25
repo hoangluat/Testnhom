@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #khung {
 	width: 1000px;
 	height: auto;
@@ -50,7 +50,7 @@
 	margin-bottom: 5px;
 	margin-top: 5px;
 	border-radius: 7px;
-	border: 5px solid lightgreen;
+	border: 5px solid #14094d;
 }
 .box1 .ima {
 	width: 50px;
@@ -182,7 +182,7 @@
 	float: left;
 	width: 1000px;
 	height: 130px;
-	background: lightgreen;
+	background: #14094d;
 }
 .form .form1{
 	float: left;
